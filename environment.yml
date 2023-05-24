@@ -1,4 +1,0 @@
-name: hw1_env
-channels:
-  - defaults
-prefix: /home/student/miniconda3/envs/hw1_env
